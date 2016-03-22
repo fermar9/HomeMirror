@@ -1,0 +1,51 @@
+<resources>
+    <string name="app_name">HomeMirror</string>
+
+    <string name="default_mirror_mirror">Espejo, espejito en la pared. Hannah es la más bonita de todas.</string>
+
+    <!-- Owners -->
+    <string name="owners">Hannah and Andy</string>
+
+    <!-- Time module -->
+    <string name="good_morning">Buenos dias, %s</string>
+    <string name="good_afternoon">Buenas tardes, %s</string>
+    <string name="good_evening">Benas noches, %s</string>
+    <string name="late">Llegas tarde, %s</string>
+    <string name="bedtime">Buenas noches, %s\n\nEs la hora de ir a dormir.</string>
+
+    <!-- Forecast module -->
+    <string name="bike_today">Dia de bici</string>
+    <string name="no_bike_today">No hace dia de bici</string>
+
+    <!--  Birthday module -->
+    <string name="happy_birthday">Feliz cumpleaños, %s!</string>
+
+    <!-- Chores module -->
+    <string name="water_plants">Regar las plantas</string>
+    <string name="grocery_list">Lista de la compra</string>
+
+    <!-- Mood module -->
+    <string name="it_gets_better">Animo, colega</string>
+    <string name="looking_good">Se te ve genial</string>
+    <string name="something_special">Se te ve de colores</string>
+
+    <!-- Set up -->
+    <string name="location">Ubicacion</string>
+    <string name="set_up">Configuracion</string>
+    <string name="latitude">Latitud</string>
+    <string name="longitude">Longitud</string>
+    <string name="launch">Ejecutar</string>
+    <string name="mood_detection_option">Deteccion de estado de animo</string>
+    <string name="show_xkcd">Mostrar nuevo xkcd</string>
+    <string name="invert_colors">Invertir color de comic</string>
+    <string name="show_calendar_event">Mostrar proximo evento de calendario</string>
+    <string name="stock">Bolsa</string>
+    <string name="ticker_symbol">Simbolo de Ticker, p.e. GOOG</string>
+    <string name="show_headline">Mostrar cabeceras BBC</string>
+    <string name="found_location">Ubicacion encontrada</string>
+    <string name="mood_explanation">Usa la cámara frontal para leer la expresión de la cara</string>
+    <string name="stock_description">Muestra en dias de la semana si tus valores han subido más de un 3%</string>
+    <string name="biking_hint">Muestra sugerencia de bici en función del tiempo</string>
+    <string name="how_to_stop">Para volver a la configuración y parar las actualizaciones, desliza desde la parte inferior de la pantalla, y pulsa sobre volver.</string>
+
+</resources>
